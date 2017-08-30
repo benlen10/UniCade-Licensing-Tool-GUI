@@ -2,6 +2,7 @@
 
 # UniCade License Generator Tool
 
+NOTICE: This project was moved to its own repository. It was originally developed in the ‘Current’ repository (Now renamed to [UniCade](https://github.com/benlen10/UniCade)) which contains the previous commits and versions.  
 
 - This tool is used to generate unique license keys for the UniCade Windows interface as well as the mobile application
 - [Screenshots](https://github.com/benlen10/UniCade-Licensing-Tool-GUI/tree/master/Screenshots)
